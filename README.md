@@ -5,7 +5,7 @@
 
 ## 🐍🐣 Python Start
 ### 🖥 Материалы
-[Введение в Python: ввод, вывод и типы данных и переменные](https://docs.google.com/presentation/d/1iwWx_bS2WbXdwzADmkORaVlN_bdYoZ0M/edit?usp=drive_web&ouid=103891339572295437919&rtpof=true)
+[Введение в Python: ввод, вывод и типы данных и переменные]
 ## 🐍🧠 Python Pro
 ### 👾 Лабораторные работы
 [Лабораторная работа №1. Консольный бот](./Python-Pro/Лабораторные_работы/labs1.md)
